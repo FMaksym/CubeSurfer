@@ -51,8 +51,9 @@
 - Ефект стакінгу нового куба
 - Реалізація регдолу
 
-<br>
-За посиланням можна переглянути результат виконаного завдання: https://www.youtube.com/watch?v=Tqaroe2Z-cs
+<br>За цим посиланням можна завантажити гру: https://github.com/FMaksym/CubeSurfer/tree/main/Build
+
+<br>За цим посиланням можна переглянути відео з результатом виконаного завдання: https://www.youtube.com/watch?v=Tqaroe2Z-cs
 
 
 
